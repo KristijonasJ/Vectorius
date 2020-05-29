@@ -18,3 +18,5 @@ Atlikta efektyvumo/spartos analizė:
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
 |    Vector     |       0       |    0.002      |    0.012      |     0.139     |     1.332     |
 |  std::vector  |      0.001    |     0.001     |     0.013     |   0.182       |      1.462    |
+
+Tiek Vector tiek std::vector veikia labai panasiai, bet šiaip Vector yra minimaliai greitesnis.
