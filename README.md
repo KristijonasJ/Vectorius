@@ -11,3 +11,5 @@ Tam atlikti panaudojome: konstruktorių, destruktorių, size(), capacity(), '=' 
 Rezultatai rodo, kad nuosavo vektoriaus visos funkcijos veikia taip pat ir std::vector.
 
 # 2.
+
+Atlikta efektyvumo/spartos analizė:
