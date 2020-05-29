@@ -6,4 +6,4 @@
 
 Tam atlikti panaudojome: konstruktorių, destruktorių, size(), capacity(), '=' operatorių, '[]' priėjimą prie elementų, push_back() funkcijas.
 
-![](Vector/oop.JPG)
+![](Vector/ooop.JPG)
