@@ -9,3 +9,5 @@ Tam atlikti panaudojome: konstruktorių, destruktorių, size(), capacity(), '=' 
 ![](Vector/ooop.JPG)
 
 Rezultatai rodo, kad nuosavo vektoriaus visos funkcijos veikia taip pat ir std::vector.
+
+# 2.
