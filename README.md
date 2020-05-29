@@ -23,3 +23,6 @@ Tiek Vector tiek std::vector veikia labai panasiai, bet šiaip Vector yra minima
 
 # 3.
 
+# 4. 
+Sort error
+
