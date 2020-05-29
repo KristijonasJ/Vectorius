@@ -21,4 +21,5 @@ Atlikta efektyvumo/spartos analizė:
 
 Tiek Vector tiek std::vector veikia labai panasiai, bet šiaip Vector yra minimaliai greitesnis.
 
-4.
+# 3.
+
